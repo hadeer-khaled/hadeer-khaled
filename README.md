@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hadeer Khaled</h1>
-<h3 align="center">A passionate frontend developer and Machine Learning Engineer from Egypt</h3>
+<h1 align="center">Hi  👋, I'm Hadeer Khaled </h1>
+<h2 align="center">I am passionate about Front-End Development and Machine Learning</h3>
 
-
-- 🌱 I’m currently learning **JavaScript**
+## :raising_hand:  About Me :
+- :ledger::pencil2:	 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Python, JavaScript**
 
-- 📫 How to reach me **HadeerKhaled257@gmail.com**
+- 📫 How to reach me **HadeerKhaled257@gmail.com** **hadeer.awad02@eng-st.cu.edu.eg** 
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
