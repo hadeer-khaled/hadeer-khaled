@@ -2,13 +2,13 @@
 <h2 align="center">I am passionate about Front-End Development and Machine Learning</h3>
 
 ## :raising_hand:  About Me :
-- :ledger::pencil2:	 I’m currently learning **JavaScript**
+- ### :ledger::pencil2:	 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Python, JavaScript**
+- ### 💬 Ask me about **Python, JavaScript**
 
-- 📫 How to reach me: <br>
-     - **HadeerKhaled257@gmail.com** <br>
-     - **hadeer.awad02@eng-st.cu.edu.eg** 
+- ### 📫  How to reach me: <br>
+     - #### **HadeerKhaled257@gmail.com** <br>
+     - #### **hadeer.awad02@eng-st.cu.edu.eg** 
 
 
 
