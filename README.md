@@ -7,8 +7,8 @@
 - 💬 Ask me about **Python, JavaScript**
 
 - 📫 How to reach me: <br>
-**HadeerKhaled257@gmail.com** <br>
-**hadeer.awad02@eng-st.cu.edu.eg** 
+     - **HadeerKhaled257@gmail.com** <br>
+     - **hadeer.awad02@eng-st.cu.edu.eg** 
 
 
 
