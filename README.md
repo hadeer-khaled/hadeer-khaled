@@ -4,7 +4,7 @@
 ## :raising_hand:  About Me :
 - ### :ledger::pencil2:	 I’m currently learning **JavaScript**
 
-- ### 💬 Ask me about **Python, JavaScript**
+- ### 💬 Ask me about **Python,Machine Learning, Deep Learning, HTML, CSS, JavaScript**
 
 - ### 📫  How to reach me: <br>
      - #### **HadeerKhaled257@gmail.com** <br>
