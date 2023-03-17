@@ -2,7 +2,7 @@
 <h2 align="center">I am passionate about Front-End Development and Machine Learning</h3>
 
 ## :raising_hand:  About Me :
-- ### :ledger::pencil2:	 I’m currently learning **JavaScript**
+- ### :ledger::pencil2:	 I’m currently learning **React.js**
 
 - ### 💬 Ask me about **Python,Machine Learning, Deep Learning, HTML, CSS, JavaScript**
 
