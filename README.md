@@ -7,8 +7,8 @@
 - ### 💬 Ask me about **Python,Machine Learning, Deep Learning, HTML5, CSS3, JavaScript, ECMA6**
 
 - ### 📫  How to reach me: <br>
-     - #### **HadeerKhaled257@gmail.com** <br>
-     - #### **hadeer.awad02@eng-st.cu.edu.eg** 
+     - #### **hadeer.khaled.elmalah@gmail.com** <br>
+     
 
 
 
