@@ -2,7 +2,7 @@
 <h2 align="center">I am passionate about Front-End Development and Machine Learning</h3>
 
 ## :raising_hand:  About Me :
-- ### :ledger::pencil2:	 I’m currently learning an Open Source Applications Development trainee at <a href="https://iti.gov.eg/iti/home" target="blank"> Information Technology Intitute  </a>
+- ### :ledger::pencil2:	 I’m currently an Open Source Applications Development trainee at <a href="https://iti.gov.eg/iti/home" target="blank"> Information Technology Intitute  </a>
 
 - ### 💬 Ask me about **Python,Machine Learning, Deep Learning, HTML5, CSS3, JavaScript, ECMA6**
 
