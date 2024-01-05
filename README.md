@@ -7,7 +7,7 @@
 - I graduated from the Faculty of Engineering at Cairo University in 2023 with a **very good** overall grade, and an **A+** for my graduation project.
 - During my time at university, I participated with my team in the **NLP Competition at Nile University** AI Hackathon to solve a named entity recognition problem, and we achieved **fourth place** out of ten teams. Moreover, I participated in the **\_VOIS Vantage 2022 Competition** - Egypt Track with two of my friends to solve real-life strategy case studies and achieved **first place**.
 
-## 📫 Connect with me:
+## Connect with me:
 
 <!-- - #### **hadeer.khaled.elmalah@gmail.com** <br> -->
 <div align="center"><a href="mailto:hadeer.khaled.elmalah@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
