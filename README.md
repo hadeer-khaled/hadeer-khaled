@@ -10,7 +10,7 @@
 ## Connect with me:
 
 <!-- - #### **hadeer.khaled.elmalah@gmail.com** <br> -->
-<div align="center"><a href="mailto:hadeer.khaled.elmalah@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>&emsp;<a href="https://www.linkedin.com/in/hadeer-khaled-nabil/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&emsp;<a href="https://wa.me/0201120325563"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>&emsp;<a href="https://www.hackerrank.com/profile/hadeer_khaled_e1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
+<div align="center"><a href="mailto:hadeer.khaled.elmalah@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>&emsp;<a href="https://www.linkedin.com/in/hadeer-khaled-nabil/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&emsp;<a href="https://wa.me/0201120325563"><img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>&emsp;<a href="https://www.hackerrank.com/profile/hadeer_khaled_e1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
 </div>
 
 ## Languages and Tools:
